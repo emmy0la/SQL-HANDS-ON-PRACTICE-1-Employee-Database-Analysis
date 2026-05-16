@@ -1,0 +1,41 @@
+employee_number,first_name,last_name,gender,department,job_title,hire_date,salary,employment_status
+1001,John,Okafor,Male,IT,Analyst,2015-06-12,85000,Active
+1002,Mary,Mensah,Female,Finance,Manager,2018-03-25,120000,Active
+1003,Amina,Ndlovu,Female,HR,Officer,2016-09-14,65000,On Leave
+1004,David,Hassan,Male,Sales,Executive,2019-01-10,95000,Active
+1005,Grace,Kamau,Female,Marketing,Coordinator,2017-11-05,72000,Resigned
+1006,Kwame,Diallo,Male,Operations,Specialist,2014-07-19,88000,Active
+1007,Lerato,Abebe,Female,IT,Manager,2020-02-17,130000,Active
+1008,Chinedu,Moyo,Male,Finance,Analyst,2013-05-23,91000,Active
+1009,Fatima,Bello,Female,HR,Executive,2021-04-11,70000,On Leave
+1010,Omar,Smith,Male,Sales,Officer,2012-12-01,78000,Active
+1001,John,Okafor,Male,IT,Analyst,2015-06-12,85000,Active
+1002,Mary,Mensah,Female,Finance,Manager,2018-03-25,120000,Active
+1003,Amina,Ndlovu,Female,HR,Officer,2016-09-14,65000,On Leave
+1004,David,Hassan,Male,Sales,Executive,2019-01-10,95000,Active
+1005,Grace,Kamau,Female,Marketing,Coordinator,2017-11-05,72000,Resigned
+1006,Kwame,Diallo,Male,Operations,Specialist,2014-07-19,88000,Active
+1007,Lerato,Abebe,Female,IT,Manager,2020-02-17,130000,Active
+1008,Chinedu,Moyo,Male,Finance,Analyst,2013-05-23,91000,Active
+1009,Fatima,Bello,Female,HR,Executive,2021-04-11,70000,On Leave
+1010,Omar,Smith,Male,Sales,Officer,2012-12-01,78000,Active
+1011,John,Okafor,Male,IT,Manager,2016-08-21,125000,Active
+1012,Mary,Mensah,Female,Finance,Officer,2017-02-14,68000,Active
+1013,Amina,Ndlovu,Female,HR,Coordinator,2018-10-03,72000,Resigned
+1014,David,Hassan,Male,Sales,Analyst,2019-07-09,88000,Active
+1015,Grace,Kamau,Female,Marketing,Executive,2020-05-16,94000,Active
+1001,John,Okafor,Male,IT,Analyst,2015-06-12,85000,Active
+1002,Mary,Mensah,Female,Finance,Manager,2018-03-25,120000,Active
+1003,Amina,Ndlovu,Female,HR,Officer,2016-09-14,65000,On Leave
+1004,David,Hassan,Male,Sales,Executive,2019-01-10,95000,Active
+1005,Grace,Kamau,Female,Marketing,Coordinator,2017-11-05,72000,Resigned
+1006,Kwame,Diallo,Male,Operations,Specialist,2014-07-19,88000,Active
+1007,Lerato,Abebe,Female,IT,Manager,2020-02-17,130000,Active
+1008,Chinedu,Moyo,Male,Finance,Analyst,2013-05-23,91000,Active
+1009,Fatima,Bello,Female,HR,Executive,2021-04-11,70000,On Leave
+1010,Omar,Smith,Male,Sales,Officer,2012-12-01,78000,Active
+1011,John,Okafor,Male,IT,Manager,2016-08-21,125000,Active
+1012,Mary,Mensah,Female,Finance,Officer,2017-02-14,68000,Active
+1013,Amina,Ndlovu,Female,HR,Coordinator,2018-10-03,72000,Resigned
+1014,David,Hassan,Male,Sales,Analyst,2019-07-09,88000,Active
+1015,Grace,Kamau,Female,Marketing,Executive,2020-05-16,94000,Active
