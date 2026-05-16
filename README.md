@@ -311,20 +311,20 @@ AND department IN ('Sales', 'IT');
 SQL-Study-Group-Hands-On-1/
 │
 ├── README.md
-├── employees_sample.csv
-├── queries.sql
+├── employees.csv
+├── Company_db.sql
 │
 ├── Images/
-│   ├── tg1.1a.png
-│   ├── tg1.1b.png
-│   ├── tg1.1c.png
-│   ├── tg1.2a.png
-│   ├── tg1.2b.png
-│   ├── tg1.2c.png
-│   ├── tg1.3a.png
-│   ├── tg1.3b.png
-│   ├── tg1.3c.png
-│   └── tg1.4.png
+│   ├── Level 1A.png
+│   ├── Level 1B.png
+│   ├── Level 1C.png
+│   ├── Level 2A.png
+│   ├── Level 2B.png
+│   ├── Level 2C.png
+│   ├── Level 3A.png
+│   ├── Level 3B.png
+│   ├── Level 3C.png
+│   └── Level 4.png
 ```
 
 ---
