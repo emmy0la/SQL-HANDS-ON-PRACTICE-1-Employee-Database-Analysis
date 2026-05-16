@@ -94,7 +94,7 @@ WHERE salary >= 120000;
 - 3 employees fall into the high-income category.
 - These employees may represent senior operational or leadership roles.
 
-![High Earners](Images/tg1.1a.png)
+![Images](https://github.com/emmy0la/SQL-HANDS-ON-PRACTICE-1-Employee-Database-Analysis/blob/8b9fa34980a497a96b0fe346c88e99332f6e7de3/Images/Level%201A.png)
 
 ---
 
