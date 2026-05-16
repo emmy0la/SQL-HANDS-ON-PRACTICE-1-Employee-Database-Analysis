@@ -311,6 +311,7 @@ AND department IN ('Sales', 'IT');
 SQL-Study-Group-Hands-On-1/
 │
 ├── README.md
+├── Hands-on #1.pdf
 ├── employees.csv
 ├── Company_db.sql
 │
