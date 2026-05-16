@@ -114,7 +114,7 @@ WHERE employee_number = 1005;
 - Department: Marketing
 - Status: Resigned
 
-![Specific Employee](Images/tg1.1b.png)
+![Images](https://github.com/emmy0la/SQL-HANDS-ON-PRACTICE-1-Employee-Database-Analysis/blob/a578b58662065aaffb011c229b04e61932719423/Images/Level%201B.png)
 
 ---
 
@@ -133,7 +133,7 @@ WHERE department = 'IT';
 - The IT department contains both technical and managerial roles.
 - Useful for departmental workforce analysis.
 
-![IT Department](Images/tg1.1c.png)
+![Images](https://github.com/emmy0la/SQL-HANDS-ON-PRACTICE-1-Employee-Database-Analysis/blob/a578b58662065aaffb011c229b04e61932719423/Images/Level%201C.png)
 
 ---
 
@@ -154,7 +154,7 @@ AND department = 'Finance';
 ### Insight
 - Female representation exists within Finance leadership and operations.
 
-![Finance Team](Images/tg1.2a.png)
+![Images](https://github.com/emmy0la/SQL-HANDS-ON-PRACTICE-1-Employee-Database-Analysis/blob/a578b58662065aaffb011c229b04e61932719423/Images/Level%202A.png)
 
 ---
 
@@ -172,7 +172,7 @@ WHERE salary BETWEEN 70000 AND 90000;
 ### Insight
 - Mid-level salary employees form a significant portion of the workforce.
 
-![Budget Planning](Images/tg1.2b.png)
+![Images](https://github.com/emmy0la/SQL-HANDS-ON-PRACTICE-1-Employee-Database-Analysis/blob/a578b58662065aaffb011c229b04e61932719423/Images/Level%202B.png)
 
 ---
 
@@ -191,7 +191,7 @@ WHERE employment_status IN ('Resigned', 'On Leave');
 - 3 inactive employees identified.
 - Supports workforce planning and replacement decisions.
 
-![Availability Check](Images/tg1.2c.png)
+![Images](https://github.com/emmy0la/SQL-HANDS-ON-PRACTICE-1-Employee-Database-Analysis/blob/a578b58662065aaffb011c229b04e61932719423/Images/Level%202C.png)
 
 ---
 
@@ -211,7 +211,7 @@ WHERE job_title LIKE '%Manager';
 ### Insight
 - Management roles identified across Finance and IT departments.
 
-![Management Search](Images/tg1.3a.png)
+![Images](https://github.com/emmy0la/SQL-HANDS-ON-PRACTICE-1-Employee-Database-Analysis/blob/a578b58662065aaffb011c229b04e61932719423/Images/Level%203A.png)
 
 ---
 
@@ -229,7 +229,7 @@ WHERE department IN ('Sales', 'Marketing', 'Operations');
 ### Insight
 - Cross-functional operational teams identified for business coordination.
 
-![Regional Support](Images/tg1.3b.png)
+![Images](https://github.com/emmy0la/SQL-HANDS-ON-PRACTICE-1-Employee-Database-Analysis/blob/a578b58662065aaffb011c229b04e61932719423/Images/Level%203B.png)
 
 ---
 
@@ -247,7 +247,7 @@ WHERE first_name LIKE 'A%';
 ### Insight
 - Demonstrates practical wildcard filtering using LIKE.
 
-![Name Lookup](Images/tg1.3c.png)
+![Images](https://github.com/emmy0la/SQL-HANDS-ON-PRACTICE-1-Employee-Database-Analysis/blob/a578b58662065aaffb011c229b04e61932719423/Images/Level%203C.png)
 
 ---
 
@@ -275,7 +275,7 @@ AND department IN ('Sales', 'IT');
 - Only 2 employees satisfy all business conditions.
 - Demonstrates advanced filtering and analyst-style query logic.
 
-![Final Boss Query](Images/tg1.4.png)
+![Images](https://github.com/emmy0la/SQL-HANDS-ON-PRACTICE-1-Employee-Database-Analysis/blob/a578b58662065aaffb011c229b04e61932719423/Images/Level%204.png)
 
 ---
 
